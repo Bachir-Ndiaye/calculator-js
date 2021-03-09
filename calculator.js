@@ -18,5 +18,6 @@ switch (op) {
         break;
     
     default:
+        console.log('Invalid operator')
         break;
 }
